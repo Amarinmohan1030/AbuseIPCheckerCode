@@ -48,6 +48,6 @@ Command for Create a file named server.js:
 touch server.js
 
 Step6: Run the server
-node index.js
+node server.js
 
 
